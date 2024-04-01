@@ -8,6 +8,7 @@
 }
 
 body{
+  background: url(../public/assets/fondo1.jpg);
   color: #fff;
   font-family: sans-serif;
 }
