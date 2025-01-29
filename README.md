@@ -1,8 +1,26 @@
-# React + Vite
+🥠 Fourtune Cokkie
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Descripción
 
-Currently, two official plugins are available:
+Aplicación web sencilla que simula una galleta de la fortuna. Al hacer clic en el botón, se muestra una frase aleatoria para inspirarte o motivarte. La interfaz es básica pero funcional, ideal para practicar React 
+y eventos en el DOM.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Características
+
+Muestra frases aleatorias al hacer clic en el botón.
+Interfaz minimalista y fácil de usar.
+Implementación de componentes en React.
+Gestión del estado para cambiar las frases.
+
+
+Tecnologías Utilizadas
+
+React: Biblioteca para construir interfaces de usuario.
+JavaScript: Lenguaje de programación principal.
+CSS: Para los estilos básicos.
+
+
+Instalación y Uso
+
+Requisitos Previos
+Node.js instalado en tu sistema.
